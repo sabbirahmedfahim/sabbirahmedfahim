@@ -1,4 +1,4 @@
-### Hi there 👋, Assalamu alaikum, I'm Sabbir
+# Hi there 👋, Assalamu alaikum, I'm Sabbir
 #### Exploring the Coding World!
 Muslim, Balancing Tech and Reality with Finesse. Not your typical bookworm, but a keen enthusiast of history, Islam, thrilling adventures, and the beauty of poetry. 🌟
 
