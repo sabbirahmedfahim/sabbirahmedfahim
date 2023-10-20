@@ -14,5 +14,4 @@ Muslim, Balancing Tech and Reality with Finesse. Not your typical bookworm, but 
 <a href="https://twitter.com/sabbirahmed_f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sabbirahmed_f" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sabbirahmedfahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sabbirahmedfahim" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@SabbirAhmed_F" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sabbirahmed_f" height="30" width="40" /></a>
-<a href="https://t.me/SabbirAhmedFahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="SabbirAhmedFahim" height="30" width="40" /></a>
 </p>
