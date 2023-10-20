@@ -1,6 +1,6 @@
-![Exploring the Coding World!](https://pbs.twimg.com/profile_banners/1334796999971901440/1607105037/600x200)
 ### Hi there 👋, Assalamu alaikum, I'm Sabbir
 #### Exploring the Coding World!
+![Exploring the Coding World!](https://pbs.twimg.com/profile_banners/1334796999971901440/1607105037/600x200)
 
 Muslim, Balancing Tech and Reality with Finesse. Not your typical bookworm, but a keen enthusiast of history, Islam, thrilling adventures, and the beauty of poetry. 🌟
 
@@ -8,7 +8,7 @@ Skills: C / Python [learner]
 
 - 🌱 I’m currently learning C / Python 
 - 💬 Ask me about Nothing :D because I'm a pure fresher 
-- 📫 How to reach me: I prefer Telegram. You can also email me. 
+- 📫 How to reach me: dev.sabbirfahim@gmail.com 
 - ⚡ Fun fact:  I always exclaim with real-life stories, a passionate lover of storytelling. 
 
 
