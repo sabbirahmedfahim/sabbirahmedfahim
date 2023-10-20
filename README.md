@@ -1,7 +1,5 @@
 ### Hi there 👋, Assalamu alaikum, I'm Sabbir
 #### Exploring the Coding World!
-![Exploring the Coding World!](https://pbs.twimg.com/profile_banners/1334796999971901440/1607105037/600x200)
-
 Muslim, Balancing Tech and Reality with Finesse. Not your typical bookworm, but a keen enthusiast of history, Islam, thrilling adventures, and the beauty of poetry. 🌟
 
 Skills: C / Python [learner]
