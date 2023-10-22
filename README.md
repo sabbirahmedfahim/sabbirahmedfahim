@@ -1,6 +1,5 @@
 # Assalamu alaikum 👋, It's Fahim
 #### GitHub is like a treasure hunt for me, where every line of code is a gem waiting to be discovered💎🔍
-I'm a Muslim, balancing tech and reality with finesse. Not your typical bookworm, but a keen enthusiast of history, politics, Islam, thrilling adventures, and the beauty of poetry. 🌟
 
 - 🌱 I’m currently learning C and Python 
 - 💬 Ask me about Nothing :D because I'm a pure fresher 
