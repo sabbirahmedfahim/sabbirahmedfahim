@@ -2,7 +2,6 @@
 #### GitHub is like a treasure hunt for me, where every line of code is a gem waiting to be discovered💎🔍
 
 - 🌱 I’m currently learning C and Python 
-- 💬 Ask me about Nothing :D because I'm a pure fresher 
 - 📫 How to reach me: dev.sabbirfahim@gmail.com 
 - ⚡ Fun fact:  I always exclaim with real-life stories, a passionate lover of storytelling.
 
