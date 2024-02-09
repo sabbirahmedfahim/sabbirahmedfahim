@@ -1,9 +1,5 @@
 # Assalamu alaikum 👋, It's Fahim
-<p align="center">
-  <a href="https://github.com/sabbirahmedfahim/sabbirahmedfahim/assets/146383613/dbfdb0e2-06be-470c-a8da-7f6cb557d1f1">
-    <img src="https://github.com/sabbirahmedfahim/sabbirahmedfahim/raw/main/assets/146383613/dbfdb0e2-06be-470c-a8da-7f6cb557d1f1" alt="Geometric Animations" width="300">
-  </a>
-</p>
+![Geometric Animations](https://github.com/sabbirahmedfahim/sabbirahmedfahim/assets/146383613/dbfdb0e2-06be-470c-a8da-7f6cb557d1f1)
 
 ## About
 ### GitHub is like a treasure hunt for me, where every line of code is a gem waiting to be discovered💎🔍
