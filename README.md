@@ -26,5 +26,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabbirahmedfahim&" alt="sabbirahmedfahim" /></p>
 
-![Google Drive Image](https://drive.google.com/uc?export=view&id=1gQosACAzn9GhS0aFluE8i_zQhfeUXtB0)
+![Google Drive Image](https://drive.google.com/file/d/1gQosACAzn9GhS0aFluE8i_zQhfeUXtB0/view?usp=sharing)
 
