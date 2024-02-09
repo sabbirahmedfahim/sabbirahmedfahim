@@ -24,8 +24,6 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=sabbirahmedfahim&label=Profile%20views&color=0e75b6&style=flat" alt="sabbirahmedfahim" /> </p>
 
-![Geometric Animations](https://github.com/sabbirahmedfahim/sabbirahmedfahim/assets/146383613/dbfdb0e2-06be-470c-a8da-7f6cb557d1f1)
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabbirahmedfahim&" alt="sabbirahmedfahim" /></p>
 
-
+![Geometric Animations](https://github.com/sabbirahmedfahim/sabbirahmedfahim/assets/146383613/dbfdb0e2-06be-470c-a8da-7f6cb557d1f1)
