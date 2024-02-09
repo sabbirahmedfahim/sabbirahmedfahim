@@ -1,5 +1,5 @@
 <h1 align="center">Assalamu alaikum 👋, It's Fahim</h1>
-#### GitHub is like a treasure hunt for me, where every line of code is a gem waiting to be discovered💎🔍
+GitHub is like a treasure hunt for me, where every line of code is a gem waiting to be discovered💎🔍
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabbirahmedfahim&label=Profile%20views&color=0e75b6&style=flat" alt="sabbirahmedfahim" /> </p>
 
 
