@@ -1,6 +1,6 @@
 # Assalamu alaikum 👋, It's Fahim
+## About
 ### GitHub is like a treasure hunt for me, where every line of code is a gem waiting to be discovered💎🔍
-<h2 align="center">About</h2>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=sabbirahmedfahim&label=Profile%20views&color=0e75b6&style=flat" alt="sabbirahmedfahim" /> </p>
 
