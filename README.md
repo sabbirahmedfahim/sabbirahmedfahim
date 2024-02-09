@@ -1,4 +1,5 @@
 # Assalamu alaikum 👋, It's Fahim
+![Geometric Animations](https://github.com/sabbirahmedfahim/sabbirahmedfahim/assets/146383613/dbfdb0e2-06be-470c-a8da-7f6cb557d1f1)
 ## About
 ### GitHub is like a treasure hunt for me, where every line of code is a gem waiting to be discovered💎🔍
 
@@ -17,8 +18,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-![Geometric Animations](https://github.com/sabbirahmedfahim/sabbirahmedfahim/assets/146383613/dbfdb0e2-06be-470c-a8da-7f6cb557d1f1)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabbirahmedfahim&show_icons=true&locale=en&layout=compact" alt="sabbirahmedfahim" /></p>
