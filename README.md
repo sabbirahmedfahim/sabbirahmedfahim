@@ -25,4 +25,3 @@
 <p align="right"> <a href="https://twitter.com/sabbirahmed_f" target="blank"><img src="https://img.shields.io/twitter/follow/sabbirahmed_f?logo=twitter&style=for-the-badge" alt="sabbirahmed_f" /></a> </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sabbirahmedfahim&show_icons=true&locale=en" alt="sabbirahmedfahim" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabbirahmedfahim&" alt="sabbirahmedfahim" /></p>
