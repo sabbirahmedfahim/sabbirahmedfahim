@@ -27,3 +27,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabbirahmedfahim&" alt="sabbirahmedfahim" /></p>
 
 ![Geometric Animations](https://github.com/sabbirahmedfahim/sabbirahmedfahim/assets/146383613/dbfdb0e2-06be-470c-a8da-7f6cb557d1f1)
+
+<a href="https://data.typeracer.com/pit/profile?user=sabbirahmed_f&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=sabbirahmed_f" border="0" alt="TypeRacer.com scorecard for user sabbirahmed_f"/></a>
