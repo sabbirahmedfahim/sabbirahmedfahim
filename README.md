@@ -4,7 +4,7 @@
 ### GitHub is like a treasure hunt for me, where every line of code is a gem waiting to be discovered💎🔍
 
 
-- 🌱 I’m currently learning **C, Python**
+- 🌱 I’m currently learning **Data Structure**
 
 - 📫 How to reach me **dev.sabbirfahim@gmail.com**
 
