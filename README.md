@@ -5,17 +5,17 @@ Undergrad in CSE (BSc)
 
 - 🌱 Currently learning **Algorithms**
 - 📫 Feel free to reach out to me at **[dev.sabbirfahim@gmail.com](mailto:dev.sabbirfahim@gmail.com)**.
-- [Codeforces Handle](https://codeforces.com/profile/dev.sabbirfahim).
+- [Codeforces Handle](https://codeforces.com/profile/dev.sabbirfahim)
 
 <h3 align="left">Connect with me:</h3>  
-<p align="left"> 
-  <a href="https://twitter.com/sabbirfahim" target="blank">
-    <img src="https://img.shields.io/twitter/follow/sabbirahmed_f?logo=twitter&style=for-the-badge" alt="sabbirahmed_f" />
-  </a> 
+<div align="left" style="display: flex; align-items: center;">
   <a href="https://linkedin.com/in/sabbirahmedfahim" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sabbirahmedfahim" height="30" width="40" />
   </a>
-</p>
+  <a href="https://twitter.com/dev_sabbirfahim" target="blank" style="margin-left: 10px;">
+    <img src="https://img.shields.io/twitter/follow/dev_sabbirfahim?logo=twitter&style=for-the-badge" alt="dev_sabbirfahim" />
+  </a> 
+</div>
 
 ## 📊 GitHub Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabbirahmedfahim&show_icons=true&locale=en&layout=compact" alt="sabbirahmedfahim" /></p>
