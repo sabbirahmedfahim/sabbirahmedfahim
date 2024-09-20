@@ -3,11 +3,8 @@
 ## About
 ### GitHub is like a treasure hunt for me, where every line of code is a gem waiting to be discovered💎🔍
 
-
-- 🌱 I’m currently learning **Data Structure**
-
+- 🌱 I’m currently learning **Algorithm**
 - 📫 How to reach me **dev.sabbirfahim@gmail.com**
-
 - ⚡ Fun fact **I always exclaim with real-life stories, a passionate lover of storytelling.**
 
 <h3 align="left">Connect with me:</h3>  
@@ -19,7 +16,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabbirahmedfahim&show_icons=true&locale=en&layout=compact" alt="sabbirahmedfahim" /></p>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=sabbirahmedfahim&label=Profile%20views&color=0e75b6&style=flat" alt="sabbirahmedfahim" /> </p>
@@ -27,5 +23,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabbirahmedfahim&" alt="sabbirahmedfahim" /></p>
 
 ![Geometric Animations](https://github.com/sabbirahmedfahim/sabbirahmedfahim/assets/146383613/dbfdb0e2-06be-470c-a8da-7f6cb557d1f1)
-
-<a href="https://data.typeracer.com/pit/profile?user=sabbirahmed_f&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=sabbirahmed_f" border="0" alt="TypeRacer.com scorecard for user sabbirahmed_f"/></a>
