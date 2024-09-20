@@ -4,7 +4,7 @@
 ### GitHub is like a treasure hunt for me, where every line of code is a gem waiting to be discovered💎🔍
 
 - 🌱 I’m currently learning **Algorithm**
-- 📫 How to reach me **dev.sabbirfahim@gmail.com**
+- 📫 Reach out to me at **[dev.sabbirfahim@gmail.com](mailto:dev.sabbirfahim@gmail.com)**.
 - ⚡ Fun fact **I always exclaim with real-life stories, a passionate lover of storytelling.**
 
 <h3 align="left">Connect with me:</h3>  
