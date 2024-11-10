@@ -9,12 +9,9 @@ Undergrad in CSE (BSc)
 
 <h3 align="left">Connect with me:</h3>  
 <div align="left" style="display: flex; align-items: center;">
-  <a href="https://linkedin.com/in/sabbirahmedfahim" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sabbirahmedfahim" height="30" width="40" />
+  <a href="https://linkedin.com/in/sabbirahmedfahim" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
   </a>
-  <a href="https://twitter.com/dev_sabbirfahim" target="blank" style="margin-left: 10px;">
-    <img src="https://img.shields.io/twitter/follow/dev_sabbirfahim?logo=twitter&style=for-the-badge" alt="dev_sabbirfahim" />
-  </a> 
 </div>
 
 ## 📊 GitHub Stats
