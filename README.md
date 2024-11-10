@@ -5,7 +5,7 @@ Undergrad in CSE (BSc)
 
 - 🌱 Currently learning **Algorithms**
 - 📫 Feel free to reach out to me at **[dev.sabbirfahim@gmail.com](mailto:dev.sabbirfahim@gmail.com)**.
-- [Codeforces Handle](https://codeforces.com/profile/sabbirahmedfahim)
+- 🚀 **Codeforces Handle:** [sabbirahmedfahim](https://codeforces.com/profile/sabbirahmedfahim)
 
 <h3 align="left">Connect with me:</h3>  
 <div align="left" style="display: flex; align-items: center;">
