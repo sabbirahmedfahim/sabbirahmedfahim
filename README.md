@@ -1,4 +1,4 @@
-# Assalamu Alaikum 👋, It's Fahim
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Assalamu+Alaikum+👋;It's+Fahim)](https://git.io/typing-svg)
 
 ## About Me
 Undergrad in CSE (BSc)
