@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Assalamu+Alaikum+👋;It's+Fahim)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Assalamu+Alaikum+👋;I'm+Sabbir+Ahmed+Fahim)](https://git.io/typing-svg)
 
 ## About Me
 Undergrad in CSE (BSc)
