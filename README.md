@@ -3,7 +3,7 @@
 ## About Me
 Undergrad in CSE (BSc)
 
-- 🌱 Currently learning **Data Structures & Algorithms**
+- 🌱 Exploring advanced algorithms and **problem-solving**
 - 📫 Feel free to reach out to me at **[dev.sabbirfahim@gmail.com](mailto:dev.sabbirfahim@gmail.com)**.
 - 🚀 **Codeforces Handle:** [sabbirahmedfahim](https://codeforces.com/profile/sabbirahmedfahim)
 
