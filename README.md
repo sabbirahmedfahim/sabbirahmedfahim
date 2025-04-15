@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Assalamu+Alaikum+👋;I'm+Sabbir+Ahmed+Fahim&center=true&width=440)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=The+woods+are+lovely,+dark+and+deep,;But+I+have+promises+to+keep,;And+miles+to+go+before+I+sleep,;And+miles+to+go+before+I+sleep.&center=true&width=540&font=Georgia&duration=3000&pause=2000&repeat=true)](https://git.io/typing-svg)
 
 <div align="center">
 
